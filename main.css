@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Inter";
+    src: url("intervariable.ttf") format("tiff");
+}
+  
+body { 
+    font-family: Inter, "Helvetica Neue", Arial, Helvetica, sans-serif;
+    margin: 6em 0 10em 6em;
+} 
